@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pokemon-fetch/static/css/main.7acaea2f.css",
-    "main.js": "/pokemon-fetch/static/js/main.07d3183d.js",
+    "main.js": "/pokemon-fetch/static/js/main.19a47870.js",
     "index.html": "/pokemon-fetch/index.html",
     "main.7acaea2f.css.map": "/pokemon-fetch/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/pokemon-fetch/static/js/main.07d3183d.js.map"
+    "main.19a47870.js.map": "/pokemon-fetch/static/js/main.19a47870.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.19a47870.js"
   ]
 }
