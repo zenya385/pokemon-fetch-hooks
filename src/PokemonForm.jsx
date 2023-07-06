@@ -13,7 +13,11 @@ export default class PokemonForm extends Component {
   handleSubmit = e => {
     e.preventDefault();
     if (this.state.pokemonName.trim() === '') {
-      toast.error("Введіть ім'я покемона.");
+      // toast("Введіть ім'я покемона.");
+      // toast.warn("🦄 Введіть ім'я покемона.", {
+      //   position: 'top-right',
+      //   autoClose: 5000,
+      // });
       return;
     }
     this.props.onSubmit(this.state.pokemonName);

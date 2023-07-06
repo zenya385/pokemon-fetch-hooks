@@ -18,7 +18,7 @@ export default class App extends Component {
         <h1>Pokemonu</h1>
         <PokemonForm onSubmit={this.handleFormSubmit} />
         <PokemonInfo pokemonName={this.state.pokemonName} />
-        {/* <ToastContainer autoClose={3000} /> */}
+        {/* <ToastContainer position="top-right" autoClose={5000} /> */}
       </>
     );
   }
