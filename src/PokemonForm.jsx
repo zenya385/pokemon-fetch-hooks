@@ -1,4 +1,4 @@
-import { Component } from 'react';
+import { Component, useState } from 'react';
 import { toast } from 'react-toastify';
 
 export default class PokemonForm extends Component {
